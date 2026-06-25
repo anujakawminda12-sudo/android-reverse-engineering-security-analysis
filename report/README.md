@@ -1,8 +1,5 @@
 # Report
 
-This directory contains the public version of the Android Reverse Engineering and Security Analysis report.
-# Report
-
 This directory contains the complete technical report for the **Android Reverse Engineering & Security Analysis** project.
 
 The report documents:
