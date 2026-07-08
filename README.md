@@ -4,17 +4,15 @@ Reverse engineering and security analysis of an Android application in a control
 
 ## Overview
 
-This project presents a reverse engineering and security analysis of an Android application conducted in a controlled educational environment. The primary objective was to understand Android application architecture, analyze application components, evaluate security mechanisms, and assess common security weaknesses through static analysis.
-
-The project was completed as part of an undergraduate Mobile Security course and demonstrates practical knowledge of Android reverse engineering, APK analysis, and mobile application security.
+This project presents a reverse engineering and security analysis of the Android application Hash Droid conducted in a controlled educational environment. The objective was to understand Android application architecture, analyze application components, evaluate security mechanisms and assess potential security weaknesses through static analysis.
 
 ---
 
 ## Objectives
 
-* Reverse engineer an Android APK
+* Reverse engineer the Hash Droid APK
 * Analyze the AndroidManifest.xml
-* Examine Activities, Services, and application flow
+* Examine Activities, Services and application flow
 * Identify application permissions and security implications
 * Perform static security assessment
 * Understand Android application architecture
