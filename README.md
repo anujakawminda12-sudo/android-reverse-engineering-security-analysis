@@ -1,4 +1,4 @@
-# android-reverse-engineering-security-analysis
+# Android Reverse Engineering Security Analysis of Hash Droid
 Reverse engineering and security analysis of an Android application in a controlled educational environment, including APK analysis, component mapping, and security assessment.
 # Android Reverse Engineering & Security Analysis
 
